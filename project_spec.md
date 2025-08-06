@@ -101,7 +101,7 @@ For Milestone 2, include **2+ Videos/GIFs** of the build process here!
 ![adding song to playlist](https://github.com/Codepath-Android-SpotifyApp/Spotify-Playlists-App/blob/main/2addingsong.gif)
 ## License
 
-Copyright **yyyy** **your name**
+
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
