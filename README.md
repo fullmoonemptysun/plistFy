@@ -38,7 +38,8 @@ The following REQUIRED files are included:
 
 Here's a video that demos all of the app's implemented features:
 
-<img src='https://www.youtube.com/watch?v=iVezbFtQouc' title='Video Demo' width='' alt='Video Demo' />
+[![Video Demo](https://www.youtube.com/watch?v=iVezbFtQouc)
+
 
 VIDEO created with Zoom and edited with Capcut
 
