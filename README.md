@@ -31,14 +31,15 @@ The following REQUIRED files are included:
   - [X] 2+ Videos/GIFs of build progress
 
 - [x] Our 🎥 Demo Video
-  - [ ] We have also added the Demo Video Link to the Group Info Form on the course portal.
+  - [x] We have also added the Demo Video Link to the Group Info Form on the course portal.
 
 
 ## 🎥 Demo Video
 
 Here's a video that demos all of the app's implemented features:
 
-![Video Demo](https://www.youtube.com/watch?v=iVezbFtQouc)
+[Watch the video](https://www.youtube.com/watch?v=iVezbFtQouc)
+
 
 
 VIDEO created with Zoom and edited with Capcut
