@@ -101,7 +101,9 @@ Here's a place for any other notes on the app, it's creation
 process, or what you learned this unit!  
 
 For Milestone 2, include **2+ Videos/GIFs** of the build process here!
+![playlistviewer](https://github.com/Codepath-Android-SpotifyApp/Spotify-Playlists-App/blob/main/1playlistviewer.gif)
 
+![adding song to playlist](https://github.com/Codepath-Android-SpotifyApp/Spotify-Playlists-App/blob/main/2addingsong.gif)
 ## License
 
 Copyright **yyyy** **your name**
