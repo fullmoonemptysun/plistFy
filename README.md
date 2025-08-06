@@ -37,6 +37,7 @@ The following REQUIRED files are included:
 ## 🎥 Demo Video
 
 Here's a video that demos all of the app's implemented features:
+[![Watch the video](https://img.youtube.com/vi/iVezbFtQouc/0.jpg)](https://www.youtube.com/watch?v=iVezbFtQouc)
 
 [Watch the video](https://www.youtube.com/watch?v=iVezbFtQouc)
 
