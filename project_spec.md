@@ -85,12 +85,13 @@ Required Feature
 
 <!-- Add picture of your hand sketched wireframes in this section -->
 <p float="left">
-  <img src="https://raw.githubusercontent.com/Codepath-Android-SpotifyApp/Spotify-Playlists-App/refs/heads/main/wire_1.jpg" width="200" />
-  <img src="https://raw.githubusercontent.com/Codepath-Android-SpotifyApp/Spotify-Playlists-App/refs/heads/main/wire_2.jpg" width="200" />
-  <img src="https://raw.githubusercontent.com/Codepath-Android-SpotifyApp/Spotify-Playlists-App/refs/heads/main/wire_3.jpg" width="200" />
-  <img src="https://raw.githubusercontent.com/Codepath-Android-SpotifyApp/Spotify-Playlists-App/refs/heads/main/wire_4.jpg" width="200" />
-  <img src="https://raw.githubusercontent.com/Codepath-Android-SpotifyApp/Spotify-Playlists-App/refs/heads/main/wire_5.jpg" width="200" />
+  <img src="https://raw.githubusercontent.com/Codepath-Android-SpotifyApp/Spotify-Playlists-App/main/wire_1.jpg" width="200" />
+  <img src="https://raw.githubusercontent.com/Codepath-Android-SpotifyApp/Spotify-Playlists-App/main/wire_2.jpg" width="200" />
+  <img src="https://raw.githubusercontent.com/Codepath-Android-SpotifyApp/Spotify-Playlists-App/main/wire_3.jpg" width="200" />
+  <img src="https://raw.githubusercontent.com/Codepath-Android-SpotifyApp/Spotify-Playlists-App/main/wire_4.jpg" width="200" />
+  <img src="https://raw.githubusercontent.com/Codepath-Android-SpotifyApp/Spotify-Playlists-App/main/wire_5.jpg" width="200" />
 </p>
+
 
 
 
