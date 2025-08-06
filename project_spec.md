@@ -1,8 +1,3 @@
----
-title: '**APP_NAME_HERE**'
-
----
-
 # **Spotify Playlist Editor**
 
 ## Table of Contents
