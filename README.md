@@ -96,12 +96,15 @@ Required Feature
 
 
 
-### Digital Wireframes & Mockups
+
 
 ## Build Notes
+None.
 
 
-**2+ Videos/GIFs** of the build process:
+## **2+ Videos/GIFs** of the build process:
+
+
 ![playlistviewer](https://github.com/Codepath-Android-SpotifyApp/Spotify-Playlists-App/blob/main/1playlistviewer.gif)
 
 ![adding song to playlist](https://github.com/Codepath-Android-SpotifyApp/Spotify-Playlists-App/blob/main/2addingsong.gif)
